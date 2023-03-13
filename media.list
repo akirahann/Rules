@@ -1,0 +1,13 @@
+# > Washington Post
+DOMAIN-SUFFIX,wpdigital.net
+
+# > Guardian
+DOMAIN-SUFFIX,privacy-mgmt.com
+DOMAIN-SUFFIX,guardianapis.com
+DOMAIN-SUFFIX,theguardian.com
+
+# > Politico
+DOMAIN-SUFFIX,ocdn.eu
+DOMAIN-SUFFIX,lencr.rog
+DOMAIN-SUFFIX,pulsembed.eu
+DOMAIN-SUFFIX,ringpublishing.com
