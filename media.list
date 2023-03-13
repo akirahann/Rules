@@ -1,6 +1,7 @@
 # > Washington Post
 DOMAIN-SUFFIX,wpdigital.net
 DOMAIN-SUFFIX,washpost.com
+REJECT,hec.washpost.com
 
 # > Guardian
 DOMAIN-SUFFIX,privacy-mgmt.com
