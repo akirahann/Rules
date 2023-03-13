@@ -1,10 +1,12 @@
 # > Washington Post
 DOMAIN-SUFFIX,wpdigital.net
+DOMAIN-SUFFIX,washpost.com
 
 # > Guardian
 DOMAIN-SUFFIX,privacy-mgmt.com
 DOMAIN-SUFFIX,guardianapis.com
 DOMAIN-SUFFIX,theguardian.com
+DOMAIN-SUFFIX,braze.eu
 
 # > Politico
 DOMAIN-SUFFIX,ocdn.eu
