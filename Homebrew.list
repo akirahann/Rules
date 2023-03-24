@@ -3,3 +3,6 @@ DOMAIN-SUFFIX,brew.sh
 
 # > github
 DOMAIN-SUFFIX,github.com
+
+# > openai
+DOMAIN-SUFFIX,openai.com
