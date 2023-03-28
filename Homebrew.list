@@ -6,3 +6,7 @@ DOMAIN-SUFFIX,github.com
 
 # > openai
 DOMAIN-SUFFIX,openai.com
+
+# > discord
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
