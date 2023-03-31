@@ -11,4 +11,5 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
 
-# > new
+# > ouyi
+DOMAIN-SUFFIX,cnouyi.care
