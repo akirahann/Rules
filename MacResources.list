@@ -1,4 +1,16 @@
+# > app download
 DOMAIN-SUFFIX,cmacapps.com
 DOMAIN-SUFFIX,mac-torrent-download.net
 DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,cmacked.com
+
+# > zblibrary
+DOMAIN-SUFFIX,cdn-zlib.se
+DOMAIN-SUFFIX,z-library.rs
+DOMAIN-SUFFIX,z-library.se
+DOMAIN-SUFFIX,1lib.ph
+DOMAIN-SUFFIX,1lib.sk
+DOMAIN-SUFFIX,zlibrary-east.se
+DOMAIN-SUFFIX,zlibrary-asia.se
+DOMAIN-SUFFIX,zlibrary-global.se
+DOMAIN-SUFFIX,singlelogin.re
