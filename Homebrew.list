@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,github.com
 # > discord
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
+
+# > conda
+DOMAIN-SUFFIX,anaconda.org
